@@ -150,6 +150,13 @@ This allows reloading for inference or deployment with HuggingFace APIs.
 
 ---
 
+## 📚 Read more
+
+- [Case Study Summary](./CASE_STUDY.md)
+- [Executive PDF Report](./reports/summary.pdf)
+
+---
+
 ## 🧠 Author
 
 **Diego Alejandro Vélez Martínez**
