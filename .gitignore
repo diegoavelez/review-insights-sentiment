@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+.venv_nlp_clean
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data and model artifacts
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+*.bin
+*.log
+models/bert_sentiment/pytorch_model.bin
+
+# VS Code settings
+.vscode/
+
+# System logs
+*.log
+
+
+
