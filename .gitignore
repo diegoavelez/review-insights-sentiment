@@ -6,6 +6,7 @@ __pycache__/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+notebook/results/
 
 # Environment files
 .env
@@ -26,6 +27,11 @@ Thumbs.db
 *.joblib
 *.bin
 *.log
+*.h5
+*.pt
+*.so
+.cache/
+.local/
 models/bert_sentiment/pytorch_model.bin
 
 # VS Code settings
